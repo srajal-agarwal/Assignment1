@@ -95,7 +95,7 @@
     </section>
     <section>
       <h2>My VIT Timetable (Current Semester)</h2>
-      <table id="timetable" class="visible">
+      <table id="timetable " class="visible">
         <thead>
           <tr>
             <th>Time</th>
